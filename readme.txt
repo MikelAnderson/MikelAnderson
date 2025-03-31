@@ -1,5 +1,7 @@
-I am a recently graduated web developer with a strong background in modern web technologies and practical experience gained during my internship at a renowned IT consulting firm. 
+Soy un desarrollador web recién licenciado con una sólida formación en tecnologías web modernas y experiencia práctica adquirida durante mis prácticas en una conocida consultora de TI. 
 
-During my time at the consultancy, I worked on real projects where I collaborated with multidisciplinary teams to develop efficient and functional solutions. I specialise in Wordpress, Prestashop, HTML, CSS, JavaScript, PHP and frameworks such as Laravel. In addition, I have knowledge in backend using Spring Boot and SQL databases. 
+Durante mi estancia en la consultora, trabajé en proyectos reales en los que colaboré con equipos multidisciplinares para desarrollar soluciones eficientes y funcionales. Estoy especializado en Wordpress, Prestashop, HTML, CSS, JavaScript, PHP y frameworks como Laravel. Además, tengo conocimientos en backend utilizando Spring Boot y bases de datos SQL. 
 
-I am passionate about creating intuitive and accessible web applications, and I am always looking to learn and improve my skills. I am ready to contribute my energy and knowledge to new challenges in the world of web development.
+Me apasiona crear aplicaciones web intuitivas y accesibles, y siempre estoy buscando aprender y mejorar mis habilidades. Estoy dispuesto a aportar mi energía y conocimientos a nuevos retos en el mundo del desarrollo web.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
