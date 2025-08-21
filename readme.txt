@@ -4,4 +4,3 @@ Durante mi estancia en la consultora, trabajé en proyectos reales en los que co
 
 Me apasiona crear aplicaciones web intuitivas y accesibles, y siempre estoy buscando aprender y mejorar mis habilidades. Estoy dispuesto a aportar mi energía y conocimientos a nuevos retos en el mundo del desarrollo web.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
