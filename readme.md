@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Mikel Anderson y soy Desarrollador Web Junior.</h2>
+<h2 align="left">Hola👋! Mi nombre es Mikel Anderson y soy Desarrollador Web.</h2>
 
 ###
 
